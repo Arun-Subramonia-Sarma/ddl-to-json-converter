@@ -1,0 +1,16 @@
+com/example/converter/config/JsonConfiguration$CompactFieldPrettyPrinter.class
+com/example/converter/ConverterApplication.class
+com/example/converter/util/FileUtils.class
+com/example/converter/cli/DdlToJsonCommand.class
+com/example/converter/model/DDLTable$DDLColumn.class
+com/example/converter/model/SchemaModel$Relationship.class
+com/example/converter/model/SchemaModel$DiagramSettings.class
+com/example/converter/config/JsonConfiguration.class
+com/example/converter/service/DDLParserService.class
+com/example/converter/model/SchemaModel.class
+com/example/converter/model/DDLTable$ForeignKey.class
+com/example/converter/model/SchemaModel$Field.class
+com/example/converter/service/SchemaConversionService.class
+com/example/converter/model/DDLTable.class
+com/example/converter/model/SchemaModel$Metadata.class
+com/example/converter/model/SchemaModel$Entity.class

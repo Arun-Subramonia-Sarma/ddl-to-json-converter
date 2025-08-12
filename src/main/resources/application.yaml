@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: ddl-to-json-converter
+  main:
+    banner-mode: "off"
+
+logging:
+  level:
+    com.example.converter: INFO
+    org.springframework: WARN
